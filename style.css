@@ -1,0 +1,133 @@
+/*HOME PAGE NAVIGATION DESIGN*/
+
+.topnav {
+  font-family: 'Sono', monospace;
+  font-size: 210px;
+  font-weight: 50;
+  font-style: italic;
+  color: #cacfcb;
+  margin: 0;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+a:link {
+  color: #cacfcb;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #cacfcb;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #9aa395 ;
+
+}
+
+.footer {
+  font-family: 'Sono', monospace;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 20px;
+  color: #cfcfcf;
+  padding-left: 70px;
+  bottom: 0px;
+  width: 100%;
+  text-align: left;
+  padding-top: 40px;
+}
+
+h2 {
+  font-family: 'Sono', monospace;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 20px;
+  color: #363636;
+  width: 100%;
+  text-align: center;
+}
+
+
+h1 {
+  font-family: 'Sono', monospace;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 20px;
+  color: #363636;
+  width: 100%;
+  text-align: center;
+}
+
+/*PHOTO PAGE*/
+
+.topnav-pages {
+  font-family: 'Sono', monospace;
+  font-weight: 300;
+  font-style: italic;
+  font-size: 50px;
+  text-align: center;
+}
+
+img {
+    padding-top: 20px;
+    width: 40%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center ;
+}
+
+/*VIDEO PAGE*/
+
+.title-of-videos {
+  font-family: 'Sono', monospace;
+  font-weight: 300;
+  font-style: italic;
+  margin: 0px;
+  margin-bottom: 0px;
+  font-size: 30px;
+  text-align: center;
+  color: #4d4d4d;
+}
+
+/*ABOUT PAGE*/
+
+#line-about {
+  margin-top: 30px;
+}
+
+#about-title {
+  font-family: 'Sono', monospace;
+  font-weight: 300;
+  font-style: italic;
+  margin: 0px;
+  margin-bottom: 0px;
+  padding: 0px;
+  font-size: 100px;
+  text-align: center;
+  color: #4d4d4d;
+}
+
+p {
+  font-family: 'Sono', monospace;
+  font-weight: 300;
+  font-style: italic;
+  font-size: 40px;
+  text-align: center;
+  color: #eb4034;
+}
+
+ol {
+  font-family: 'Sono', monospace;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 25px;
+  text-align: left;
+  color: #4d4d4d;
+  padding-left: 100px;
+}
